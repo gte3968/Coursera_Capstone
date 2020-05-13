@@ -1,0 +1,17 @@
+All zip codes of SF bay area,https://data.sfgov.org/Geographic-Locations-and-Boundaries/Bay-Area-ZIP-Codes/u5j3-svi6,bayarea_zipcodes.csv
+All CA zip codes' latitudes and longitudes,https://public.opendatasoft.com/explore/dataset/us-zip-code-latitude-and-longitude/table/,CA-zip-code-latitude-and-longitude.xlsx
+population by zip code California 2019,https://www.california-demographics.com/zip_codes_by_population,CA population by zip code.xlsx
+Monthly home value data by zip code : US 1996-2020 ,https://www.zillow.com/research/data/,Zip_Zhvi_AllHomes.csv
+IRS 2017 by zip code tax data: California ,https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2017-zip-code-data-soi,17zp05ca.xlsx
+By zip code GeoJson file for California (coordinates of boudaries of each zip code),https://github.com/OpenDataDE/State-zip-code-GeoJSON,ca_california_zip_codes_geo.min.json
+,,
+,,
+Factors for business,,
+Area,OK,
+population,OK,
+Population/zip code,OK,
+home price,OK,
+income,OK,
+demographics,"ethnicity distribution, age distribution (certain businesses will be more dependent on these factors)",
+crime,,
+# existing venues in the zip code per captita,,

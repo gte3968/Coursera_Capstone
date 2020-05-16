@@ -17,3 +17,5 @@ Main outcome include:
 7. Within the 32 zip codes, the top 8 with most venues were identified, with further ranking of the number of food related venues summarized. 
 8. All bay area zip codes are displayed, with color coding representing the binning labels for population, per capita income, housing price, as well as the identified 8 zip codes with top interest for potential business owners, are displayed with clickable markers showing the corresponding data, using folium calls. 
 
+One thing learned from this project is that all the images (as link to local files in the same folder) in the final report displayed well in the local Jupyter notebook, but none was displayed when committed to GitHub. After some research for this problem online, it turned out that the file name links had different cases than the actual file names. This was not a problem, as Jupyter notebook is case insensitive when displying images this way, but Github is case sensitive. After I corrected the code so that all links in the notebook file are exactly the same and case sensitive, the problem was resolved.
+  
